@@ -2,47 +2,56 @@
   {
     "name": "Afghanistan",
     "dial_code": "+93",
-    "code": "AF"
+    "code": "AF",
+    "emoji": "🇦🇫"
   },
   {
     "name": "Aland Islands",
     "dial_code": "+358",
-    "code": "AX"
+    "code": "AX",
+    "emoji": "🇦🇽"
   },
   {
     "name": "Albania",
     "dial_code": "+355",
-    "code": "AL"
+    "code": "AL",
+    "emoji": "🇦🇱"
   },
   {
     "name": "Algeria",
     "dial_code": "+213",
-    "code": "DZ"
+    "code": "DZ",
+    "emoji": "🇩🇿"
   },
   {
     "name": "AmericanSamoa",
     "dial_code": "+1684",
-    "code": "AS"
+    "code": "AS",
+    "emoji": "🇦🇸"
   },
   {
     "name": "Andorra",
     "dial_code": "+376",
-    "code": "AD"
+    "code": "AD",
+    "emoji": "🇦🇩"
   },
   {
     "name": "Angola",
     "dial_code": "+244",
-    "code": "AO"
+    "code": "AO",
+    "emoji": "🇦🇴"
   },
   {
     "name": "Anguilla",
     "dial_code": "+1264",
-    "code": "AI"
+    "code": "AI",
+    "emoji": "🇦🇮"
   },
   {
     "name": "Antarctica",
     "dial_code": "+672",
-    "code": "AQ"
+    "code": "AQ",
+    "emoji": "🇦🇶"
   },
   {
     "name": "Antigua and Barbuda",
